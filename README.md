@@ -1,17 +1,16 @@
-
-![Header](https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif)
-
 # Hi there! I'm João Pedro Mergulhão 👋
 
 💻 Front-end Developer | 🚀 Passionate about Web Development & UI/UX
 
----
+![GIF](https://tenor.com/view/css-ie-gif-7190988)
 
 ## 🧐 About Me
 
 I'm a dedicated **Front-end Developer** currently pursuing a degree in **Computer Science** at the **International University of Applied Sciences**. My journey in programming started in **2019** with an **Object-Oriented Programming (OOP) C++ course**, which sparked my passion for coding. Since then, I have been committed to building interactive, user-friendly web applications.
 
 🏆 **Hackathon Enthusiast** | Winner of **Unicap Innovation Saturday**, where I developed a **gamified prototype** to enhance engagement at **Recife Carnival**.
+
+
 
 🎯 My goal is to create impactful projects that stand out in the market while delivering **exceptional user experiences**. Currently, I'm expanding my knowledge in **back-end technologies** like **Node.js, Java, and Python** to build full-stack applications.
 
@@ -59,4 +58,4 @@ I also love **teaching** and **sharing knowledge**, which led me to create **edu
 🔗 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-mergulh%C3%A3o-1929a4256/)  
 🌍 [Portfolio](https://portfoliojoaopedro-tan.vercel.app/)  
 
-Let's build something awesome together! 🚀
+Feel free to check out my repositories and connect with me. I'm always open to collaboration and new opportunities! 🚀
