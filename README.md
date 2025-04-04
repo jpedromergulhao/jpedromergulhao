@@ -4,13 +4,11 @@
 
 ![GIF](https://media1.tenor.com/m/rf88Pwf2KcsAAAAC/css-ie.gif)
 
-## 🧐 About Me
+## 🤨 About Me
 
 I'm a dedicated **Front-end Developer** currently pursuing a degree in **Computer Science** at the **International University of Applied Sciences**. My journey in programming started in **2019** with an **Object-Oriented Programming (OOP) C++ course**, which sparked my passion for coding. Since then, I have been committed to building interactive, user-friendly web applications.
 
 🏆 **Hackathon Enthusiast** | Winner of **Unicap Innovation Saturday**, where I developed a **gamified prototype** to enhance engagement at **Recife Carnival**.
-
-
 
 🎯 My goal is to create impactful projects that stand out in the market while delivering **exceptional user experiences**. Currently, I'm expanding my knowledge in **back-end technologies** like **Node.js, Java, and Python** to build full-stack applications.
 
@@ -36,7 +34,12 @@ I also love **teaching** and **sharing knowledge**, which led me to create **edu
 
 ## 📊 GitHub Stats
 
-![João Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpedromergulhao&show_icons=true&theme=radical)
+### 🐍 Watch the Snake Eat My Contributions!
+![Snake animation](https://github.com/jpedromergulhao/jpedromergulhao/blob/output/github-contribution-grid-snake.svg)
+
+### 🚀 My GitHub in 3D!
+🔗 **Explore my 3D GitHub Contributions:**  
+[![GitHub Skyline](https://skyline.github.com/jpedromergulhao/2024)](https://skyline.github.com/jpedromergulhao/2024)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedromergulhao&layout=compact&theme=radical)
 
