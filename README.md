@@ -34,14 +34,14 @@ I also love **teaching** and **sharing knowledge**, which led me to create **edu
 
 ## 📊 GitHub Stats
 
-### 🐍 Watch the Snake Eat My Contributions!
-![Snake animation](https://github.com/jpedromergulhao/jpedromergulhao/blob/output/github-contribution-grid-snake.svg)
+🌟 **Passionate Developer:** Constantly improving my front-end skills and exploring new technologies to enhance user experiences.
 
-### 🚀 My GitHub in 3D!
-🔗 **Explore my 3D GitHub Contributions:**  
-[![GitHub Skyline](https://skyline.github.com/jpedromergulhao/2024)](https://skyline.github.com/jpedromergulhao/2024)
+💼 **Academic & Personal Projects:** Applying my knowledge to build engaging projects, focusing on clean code and UI/UX best practices.
+
+📚 **Lifelong Learner:** Always expanding my expertise through studies, hands-on experimentation, and building real-world applications.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedromergulhao&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpedromergulhao&show_icons=true&theme=radical)
 
 ---
 
