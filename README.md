@@ -2,7 +2,7 @@
 
 💻 Front-end Developer | 🚀 Passionate about Web Development & UI/UX
 
-![GIF](https://tenor.com/view/css-ie-gif-7190988)
+![GIF](https://media1.tenor.com/m/rf88Pwf2KcsAAAAC/css-ie.gif)
 
 ## 🧐 About Me
 
