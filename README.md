@@ -59,3 +59,5 @@ I also love **teaching** and **sharing knowledge**, which led me to create **edu
 🌍 [Portfolio](https://portfoliojoaopedro-tan.vercel.app/)  
 
 Feel free to check out my repositories and connect with me. I'm always open to collaboration and new opportunities! 🚀
+
+![GIF](https://media1.tenor.com/m/DfXYNBOTEQ8AAAAd/react-fron-end.gif)
