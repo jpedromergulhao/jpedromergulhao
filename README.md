@@ -2,8 +2,6 @@
 
 💻 Front-end Developer | 🚀 Passionate about Web Development & UI/UX
 
-![GIF](https://media1.tenor.com/m/rf88Pwf2KcsAAAAC/css-ie.gif)
-
 ## 🤨 About Me
 
 I'm a dedicated **Front-end Developer** currently pursuing a degree in **Computer Science** at the **International University of Applied Sciences**. My journey in programming started in **2019** with an **Object-Oriented Programming (OOP) C++ course**, which sparked my passion for coding. Since then, I have been committed to building interactive, user-friendly web applications.
@@ -62,5 +60,3 @@ I also love **teaching** and **sharing knowledge**, which led me to create **edu
 🌍 [Portfolio](https://portfoliojoaopedro-tan.vercel.app/)  
 
 Feel free to check out my repositories and connect with me. I'm always open to collaboration and new opportunities! 🚀
-
-![GIF](https://media1.tenor.com/m/DfXYNBOTEQ8AAAAd/react-fron-end.gif)
