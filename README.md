@@ -46,7 +46,8 @@ I also love **teaching** and **sharing knowledge**, which led me to create **edu
 📚 **Lifelong Learner:** Always expanding my expertise through studies, hands-on experimentation, and building real-world applications.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedromergulhao&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpedromergulhao&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jpedromergulhao&theme=radical)
+![João Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpedromergulhao&show_icons=true&theme=radical)
 
 ---
 
