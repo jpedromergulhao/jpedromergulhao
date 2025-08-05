@@ -65,10 +65,6 @@ Mobile prototype for **FURIA.gg**, featuring dynamic quizzes, user onboarding, c
 E-commerce prototype with **Three.js**, scroll-based animation, and immersive product interaction.  
 → [Live Demo](https://airpodsmax-five.vercel.app/)
 
-🔹 [**Portfolio Website**](https://github.com/jpedromergulhao/portfolio)  
-My personal portfolio built with **React**, **Tailwind**, and **Framer Motion**.  
-→ [Live Site](https://portfoliojoaopedro-tan.vercel.app/)
-
 ---
 
 ## 📊 GitHub Stats
@@ -82,7 +78,6 @@ My personal portfolio built with **React**, **Tailwind**, and **Framer Motion**.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-mergulh%C3%A3o-1929a4256/)
 - 🌐 [Portfolio](https://portfoliojoaopedro-tan.vercel.app/)
-- 📷 [Instagram Dev Tips](https://www.instagram.com/jpedromergulhao.dev) *(se aplicável)*
 - ✉️ jpedromergulhao.dev@gmail.com
 
 ---
