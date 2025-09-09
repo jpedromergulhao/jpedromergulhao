@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 
-I'm a **Software Engineer** focused on **front-end development**, with full-stack capabilities and hands-on experience building **scalable, high-performance applications** using **React**, **Next.js**, and **TypeScript**.  
+I'm a **Software Engineer** focused on **front-end development**, with **full-stack capabilities** and hands-on experience building **scalable, high-performance applications** using **React**, **Next.js**, and **TypeScript**.  
 
 Currently pursuing a **B.Sc. in Computer Science** at the *International University of Applied Sciences*, I blend strong academic foundations with real-world development—from hackathons to production environments.  
 
