@@ -6,7 +6,7 @@
 
 I'm a **Software Engineer** focused on **front-end development**, with **full-stack capabilities** and hands-on experience building **scalable, high-performance applications** using **React**, **Next.js**, and **TypeScript**.  
 
-Currently pursuing a **B.Sc. in Computer Science** at the *International University of Applied Sciences*, I blend strong academic foundations with real-world development—from hackathons to production environments.  
+Currently pursuing a **B.Sc. in Computer Science** at the *International University of Applied Sciences*, I blend strong academic foundations with real-world development, from hackathons to production environments.  
 
 My journey began in 2019 with **C++ and OOP**, and since there I into modern development with **React**, **Node.js**, and **Firebase**. In 2025, I completed a full-stack development program focused on **state management**, **API integration**, and **architectural best practices**.
 
